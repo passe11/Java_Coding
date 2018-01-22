@@ -1,0 +1,67 @@
+BOB tu as rouler: 4
+BOB a 4  -> Totals sont: BOB = 0 et Joe = 0
+BOB tu as rouler: 1
+*****BOB as perdu ses points*****
+
+   ***BOB as 0 pts et Joe en as 0
+Joe tu as rouler: 4
+Joe a 4  -> Totals sont: BOB = 0 et Joe = 0
+Joe tu as rouler: 6
+Joe a 10  -> Totals sont: BOB = 0 et Joe = 0
+------Joe Passe------
+
+   ***BOB as 0 pts et Joe en as 10
+BOB tu as rouler: 5
+BOB a 5  -> Totals sont: BOB = 0 et Joe = 10
+------BOB Passe------
+
+   ***BOB as 5 pts et Joe en as 10
+Joe tu as rouler: 1
+*****Joe as perdu ses points*****
+
+   ***BOB as 5 pts et Joe en as 10
+BOB tu as rouler: 3
+BOB a 3  -> Totals sont: BOB = 5 et Joe = 10
+------BOB Passe------
+
+   ***BOB as 8 pts et Joe en as 10
+Joe tu as rouler: 1
+*****Joe as perdu ses points*****
+
+   ***BOB as 8 pts et Joe en as 10
+BOB tu as rouler: 2
+BOB a 2  -> Totals sont: BOB = 8 et Joe = 10
+------BOB Passe------
+
+   ***BOB as 10 pts et Joe en as 10
+Joe tu as rouler: 1
+*****Joe as perdu ses points*****
+
+   ***BOB as 10 pts et Joe en as 10
+BOB tu as rouler: 6
+BOB a 6  -> Totals sont: BOB = 10 et Joe = 10
+BOB tu as rouler: 2
+BOB a 8  -> Totals sont: BOB = 10 et Joe = 10
+------BOB Passe------
+
+   ***BOB as 18 pts et Joe en as 10
+Joe tu as rouler: 1
+*****Joe as perdu ses points*****
+
+   ***BOB as 18 pts et Joe en as 10
+BOB tu as rouler: 2
+BOB a 2  -> Totals sont: BOB = 18 et Joe = 10
+------BOB Passe------
+
+   ***BOB as 20 pts et Joe en as 10
+Joe tu as rouler: 6
+Joe a 6  -> Totals sont: BOB = 20 et Joe = 10
+Joe tu as rouler: 4
+Joe a 10  -> Totals sont: BOB = 20 et Joe = 10
+------Joe Passe------
+
+   ***BOB as 20 pts et Joe en as 20
+BOB tu as rouler: 2
+BOB a 2  -> Totals sont: BOB = 20 et Joe = 20
+
+FÃ©licitations BOB: tu as gagnÃ©!!!!!!

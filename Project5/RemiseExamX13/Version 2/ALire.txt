@@ -1,0 +1,2 @@
+Je n'arrive encore pas faire fonctionner mon deuxieme IUG. Aussi j'experimente avec une nouvelle classe Manager.
+Pas beaucoup d'avancement de version 1 a 2

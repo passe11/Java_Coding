@@ -1,0 +1,4 @@
+J'ai finalement fait foncitonner mon deuxime IUG. J'ai experiementer avec un color choser et decider de remettre cette ajour pour un autre jour.
+Un probleme est que je n'ai aucune facon de fermer mon deuxieme IUG. Je ne peut trier mes ajout a mon codes.
+
+jE PLANIFIE ABANDONNÉ LA CLASSE MANAGER POUR L'INCORPORER DANS MA CLASSE iug

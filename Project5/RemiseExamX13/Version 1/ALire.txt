@@ -1,0 +1,3 @@
+Tout d abord se concentrer sur l'IUG fut ma premiere étape.
+L'IUG allait etre la classe contenant une MAIN et chaque comande serait transmise au Manager
+Ainsi que la création en suivrait.

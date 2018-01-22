@@ -1,0 +1,24 @@
+TRIAGE FONCTIONNELLE, les majuscules avant les minuscule c'est intentionnel
+SUPPRIMER FONCTIONELLE
+RECHERCHE FONCTIONNELLE: il faut rechercher exactement le bon nom parcontre
+PRECEDENT , PROCHAIN Fonctionnelle : par contre peut cosser une erreur si out of bound . ne cause pas le programe au complet de crash.
+
+Ouvre liste de contact fichier fonctionnelle
+Je suis conscient qu'on ne peut pas supprimer le dernier contact restant
+		Aussi que le bouton moins est completement decoratif
+
+Chose manquante :
+INPUTS : image, couleur,communication
+
+Comment le code fonctionne.
+
+Tout commence :
+à IUG
+det que l'on commence IUG ou Commence IUG 2 et Liste
+Liste Stor un array de Stock.
+Un Stock est un objet dans le quelle les données de chaque contact est storée.
+IUG2 est un IUG secondaire permetant l'entré de donné à l'IUG
+
+Lorsqu'on active le bouton plus , IUG 2 devient visible 
+				Pour ensuite renvoyer les données pour etre assamble en Stock puis integer dans la liste puits affiché
+uTILISATION DE LA VARIABLE COMPTEUR EST TRES UTILE
